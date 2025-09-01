@@ -16,11 +16,12 @@ Built using **Python** and the **Pillow** library.
 ## ▶️ Usage
 
 1. **Clone the repository**
-   ```bash
-   git clone https://github.com/your-username/gif-maker.git
-   cd gif-maker
+```bash
+git clone https://github.com/your-username/gif-maker.git
+cd gif-maker
+```
 
-2. **Install dependencies**
+3. **Install dependencies**
 ```bash
 Copy code
 pip install -r requirements.txt
@@ -33,8 +34,8 @@ python gif_maker.py
 ```
 
 4. **Output**
-The script will read all images from the frames/ folder
-Generate a GIF named output.gif
-GIF will loop infinitely
+- The script will read all images from the frames/ folder
+- Generate a GIF named output.gif
+- GIF will loop infinitely
 
 ---
