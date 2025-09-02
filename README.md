@@ -21,7 +21,7 @@ git clone https://github.com/your-username/gif-maker.git
 cd gif-maker
 ```
 
-3. **Install dependencies**
+2. **Install dependencies**
 ```bash
 Copy code
 pip install -r requirements.txt
