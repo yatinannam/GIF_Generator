@@ -1,11 +1,11 @@
-# 🖼️ GIF Maker with Python + Pillow
+# GIF Maker with Python + Pillow
 
 A simple Python project that converts a sequence of image frames into a smooth looping GIF.  
 Built using **Python** and the **Pillow** library.
 
 ---
 
-## 🚀 Features
+## Features
 - Converts multiple images into a GIF  
 - Adjustable frame duration (speed control)  
 - Infinite looping support  
@@ -13,7 +13,7 @@ Built using **Python** and the **Pillow** library.
 
 ---
 
-## ▶️ Usage
+## Usage
 
 1. **Clone the repository**
 ```bash
